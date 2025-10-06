@@ -52,12 +52,6 @@ The **GFM Bank Agentic AI System**, powered by **Watson Orchestrate**, aims to m
 
 ---
 
-## 🎥 Demo
-
-[Demo video (mp4)](https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/158291/3fc73549-db7d-4b26-9b11-95cfc333aab1)
-
----
-
 ## 📝 Hands-on step-by-step lab
 
 Please find the step-by-step instructions [Hands-on Lab](https://github.com/heena1709/banking-back-office-automation-agent/blob/main/hands_on_lab_banking_automation.md) on how you can implement this use case.
