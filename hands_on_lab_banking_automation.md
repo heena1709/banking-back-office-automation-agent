@@ -161,6 +161,8 @@ This Agent handles special banking operations for GFM Bank that require elevated
 
 - Upload the `bank.json` API spec provided by the instructor.
 
+  [bank.json](./prod_info_ag_imgs/bank.json)
+
   ![Upload spec file](./images/i38.png)
 
 - Once the file is uploaded, select **Next**. Select the "Process a fee reversal to an account" and "Approve or modify overdraft limit for an account" **Operations** and click **Done**
