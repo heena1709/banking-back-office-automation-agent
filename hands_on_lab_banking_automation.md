@@ -105,15 +105,9 @@ In this lab, you'll build a complete Agentic AI solution for GFM Bank using wats
 
 ### Connect to your assigned Watsonx Orchestrate instance
 
-- Log in to IBM Cloud (cloud.ibm.com). Navigate to the top-left hamburger menu, then to the Resource List. Open the AI/Machine Learning section. You should see a **watsonx Orchestrate** service, click to open
+- Log in to IBM watsonx Orchestrate environment (Login details shared by instructor)
 
-  ![Watsonx Orchestrate service](./images/i1.png)
-
-- Click the **Launch watsonx Orchestrate** button
-
-  ![Launch Watsonx Orchestrate](./images/i2.png)
-
-- Welcome to watsonx Orchestrate. Open the hamburger menu, click on **Build** -> **Agent Builder**
+- Welcome to watsonx Orchestrate. Open the hamburger menu on top-left, click on **Build** -> **Agent Builder**
 
   ![Agent Builder](./images/i3.png)
 
