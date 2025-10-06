@@ -87,20 +87,13 @@ The entire process takes minutes instead of hours, and John never has to leave h
 ## 🔧 Lab Instructions
 
 In this lab, you'll build a complete Agentic AI solution for GFM Bank using watsonx Orchestrate. You'll create multiple specialized agents that work together to handle customer requests.
-
-### Prerequisites
-**Instructors**: 
-- Check the corresponding [Instructor's guide](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/tree/main/usecase-setup/banking-backoffice) to set up all environments and backend services.
-  > NOTE: the `main` branch contains the latest release code. If you want to use a previous release, download the same [release](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/releases) that will be used for participants' lab. 
-- Ensure you have provided an updated OpenAPI Spec located in the instructor repo at `usecase-setup/banking-backoffice/CoreBank-backend/bank.json` with the correct URL to your deployed backend service for the lab participants.
-- If participant plans to complete the optional Voice interaction steps at the end of the lab, instructor will need to provision **Speech to Text** and/or **Text to Speech** services in the Instructor's cloud environment and retrieve the service URL and service API key to share with the participant.
   
 **Participants**:
-- Validate that you have access to the right TechZone environment for this lab.
-- Complete the [environment-setup](../../../environment-setup) guide for steps on API key creation and project setup.
+- Validate that you have access to the right environment for this lab.
+- Validate that you have access to the required files for this lab setup.
 - Validate that you have access to a credentials file that your instructor will share with you before starting the labs.
 - Basic understanding of banking operations (e.g., transfer, balance check, overdraft...)
-- Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
+- (Optional)Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
 
 ### Lab Steps Overview
 
