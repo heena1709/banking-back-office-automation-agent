@@ -691,6 +691,7 @@ This Agent acts as the virtual front desk of GFM Bank, welcoming customers, iden
 - In the preview window on the right, test with the following queries:
   ```
   What is a card overdraft?
+  
   What's the balance of my account IBAN DE89320895326389021994
   ```
 - Click on **Deploy** to deploy the agent
@@ -711,13 +712,21 @@ This Agent acts as the virtual front desk of GFM Bank, welcoming customers, iden
 
   ```
   What's the balance of my account IBAN DE89320895326389021994
+  
   I want to transfer 20 euros from IBAN DE89320895326389021994 to IBAN DE89929842579913662103
+  
   How can I avoid overdraft fees?
+  
   What are the fees for personal banking account?
+  
   I want to request an overdraft of 4000 euros for my account IBAN DE89320895326389021994
+  
   Please approve an overdraft of 4000 EURO for my account IBAN DE89320895326389021994
+  
   What's the balance of my account IBAN DE89320895326389021994
+  
   I want to transfer 4000 EURO from IBAN DE89320895326389021994 to IBAN DE89929842579913662103
+  
   Oh, I made a mistake, can you do a reversal of my previous 4000 EURO payment to my IBAN DE89320895326389021994
   ```
 
